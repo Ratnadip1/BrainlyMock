@@ -1,0 +1,5 @@
+framework\utilities\PropertiesFileReader.class
+framework\utilities\FrameworkUtilities.class
+framework\utilities\BasePageSteps.class
+framework\pages\CalculatorPage.class
+interfaces\IServiceHook.class
